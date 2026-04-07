@@ -1,9 +1,9 @@
-# Тест-кейсы для формы регистрации
+# Registration Form Test Cases
 
-| ID | Summary (Что проверяем) | Step-by-Step Instruction | Expected Result |
+| ID | Summary | Step-by-Step Instruction | Expected Result |
 | :-- | :--- | :--- | :--- |
-| 1 | Регистрация с валидными данными | 1. Ввести `testuser@example.com` в поле Email.<br>2. Ввести `Password123!` в поле Password.<br>3. Нажать кнопку "Зарегистрироваться". | Аккаунт создан, пользователь перенаправлен на страницу "Welcome". |
-| 2 | Попытка регистрации с пустыми полями | 1. Оставить поля Email и Password пустыми.<br>2. Нажать кнопку "Зарегистрироваться". | Ошибка: "Поля обязательны для заполнения". Регистрация не выполнена. |
-| 3 | Регистрация с некорректным форматом Email | 1. Ввести `invalid-email.com` (без @) в поле Email.<br>2. Ввести валидный пароль.<br>3. Нажать кнопку "Зарегистрироваться". | Ошибка: "Введите корректный адрес электронной почты". |
-| 4 | Попытка ввода слишком короткого пароля | 1. Ввести валидный Email.<br>2. Ввести "123" в поле Password.<br>3. Нажать кнопку "Зарегистрироваться". | Ошибка: "Пароль должен содержать минимум 6 символов". |
-| 5 | Проверка маскировки пароля (Security) | 1. Ввести любые символы в поле Password.<br>2. Посмотреть на введенные данные. | Символы пароля заменяются точками или звездочками, текст не виден. |
+| 1 | Registration with valid data | 1. Enter `testuser@example.com` in the Email field.<br>2. Enter `Password123!` in the Password field.<br>3. Click the "Sign Up" button. | Account created successfully; user redirected to the "Welcome" page or Dashboard. |
+| 2 | Registration with empty fields | 1. Leave Email and Password fields blank.<br>2. Click the "Sign Up" button. | Error message displayed: "Fields are required." Registration is not processed. |
+| 3 | Registration with invalid Email format | 1. Enter `invalid-email.com` (no @) in the Email field.<br>2. Enter a valid password.<br>3. Click the "Sign Up" button. | Error message displayed: "Please enter a valid email address." |
+| 4 | Password length validation (Too short) | 1. Enter a valid Email.<br>2. Enter "123" in the Password field.<br>3. Click the "Sign Up" button. | Error message displayed: "Password must be at least 6 characters long." |
+| 5 | Password masking check (Security) | 1. Enter any characters into the Password field.<br>2. Observe the input. | Password characters are hidden (replaced by dots or asterisks); plain text is not visible. |
