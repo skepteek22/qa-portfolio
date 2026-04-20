@@ -28,7 +28,6 @@ Icons have inconsistent dimensions and scaling. For example, the **"Interactions
 All main menu icons should have identical dimensions, consistent scaling, and uniform padding within their circular containers according to the UI style guide.
 
 ## 🖼 Visual Evidence
-![Inconsistent Icons]
 <img width="1635" height="259" alt="image" src="https://github.com/user-attachments/assets/9dd2ea58-9635-4ae2-bf6b-4bb3bf464735" />
 
 > *Figure 1: Visual comparison showing inconsistent icon sizes across the main menu categories.*
@@ -36,5 +35,5 @@ All main menu icons should have identical dimensions, consistent scaling, and un
 ---
 
 ### 💡 Rationale
-* **Severity S3
-* **Priority P3
+* **Severity S3**
+* **Priority P3**
