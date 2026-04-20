@@ -1,4 +1,4 @@
-# [BUG-001] UI: Inconsistent design of main menu category icons
+# [BUG-001] UI: Main menu icons have inconsistent sizes and alignments
 
 **Status:** 🔴 Open  
 **Severity:** S3 (Major)  
