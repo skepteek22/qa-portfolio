@@ -18,10 +18,10 @@ Welcome to my QA journey! I am a detail-oriented aspiring QA Engineer, currently
 
 | ID | Category | Summary | Severity | Status | Report |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **BUG-001** | **UI** | Inconsistent Menu Icons | S3 | 🔴 Open | [View Report](./bug-reports/BUG-001-ui-inconsistent-icons.md) |
-| **BUG-002** | **Logic** | Future Date of Birth selection | S2 | 🔴 Open | [View Report](./bug-reports/BUG-002-future-date-logic.md) |
-| **BUG-003** | **UX** | Fast disappearing error message | S4 | 🔴 Open | [View Report](./bug-reports/BUG-003-ux-fast-error-disappear.md) |
-| **BUG-004** | **UI** | Left Sidebar Alignment Issue | S3 | 🔴 Open | [View Report](./bug-reports/BUG-004-sidebar-alignment.md) |
+| **BUG-001** | **UI** | Inconsistent Menu Icons | S3 | 🔴 Open | [View Report](./bug-reports/demoqa/BUG-001-ui-inconsistent-icons.md) |
+| **BUG-002** | **Logic** | Future Date of Birth selection | S2 | 🔴 Open | [View Report](./bug-reports/demoqa/BUG-002-future-date-logic.md) |
+| **BUG-003** | **UX** | Fast disappearing error message | S4 | 🔴 Open | [View Report](./bug-reports/demoqa/BUG-003-ux-fast-error-disappear.md) |
+| **BUG-004** | **UI** | Left Sidebar Alignment Issue | S3 | 🔴 Open | [View Report](./bug-reports/demoqa/BUG-004-sidebar-alignment.md) |
 
 ---
 
